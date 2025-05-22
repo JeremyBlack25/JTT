@@ -1,0 +1,88 @@
+#!/bin/bash
+
+# --- Configuration ---
+SERVER_ADDRESS="10.138.2.22"
+SERVER_USER="jeremy.black"
+SERVER_PATH="/path/on/server/to/save/"
+DOWNLOAD_DIR="./downloads" # Local directory to save files temporarily
+
+# --- Create download directory if it doesn't exist ---
+mkdir -p "$DOWNLOAD_DIR"
+
+# --- Download Google Chrome ---
+echo "Downloading Google Chrome..."
+CHROME_URL="https://dl.google.com/chrome/mac/universal/stable/gcem/GoogleChrome.pkg"
+CHROME_FILENAME="GoogleChrome.pkg"
+curl -L -o "$DOWNLOAD_DIR/$CHROME_FILENAME" "$CHROME_URL"
+if [ $? -eq 0 ]; then
+  echo "Successfully downloaded $CHROME_FILENAME"
+else
+  echo "Error downloading $CHROME_FILENAME"
+fi
+
+# --- Download Mozilla Firefox ---
+echo "Downloading Mozilla Firefox..."
+FIREFOX_URL="https://download.mozilla.org/?product=firefox-pkg-latest-ssl&os=osx"
+FIREFOX_FILENAME="Firefox.pkg" # We'll force the name
+curl -L -o "$DOWNLOAD_DIR/$FIREFOX_FILENAME" "$FIREFOX_URL"
+if [ $? -eq 0 ]; then
+  echo "Successfully downloaded $FIREFOX_FILENAME"
+else
+  echo "Error downloading $FIREFOX_FILENAME"
+fi
+
+# --- Download Microsoft Office for Mac (More complex) ---
+echo "Downloading Microsoft Office for Mac..."
+OFFICE_DMG_URL="[YOUR_OFFICE_DMG_DIRECT_URL_HERE]" # Find the .dmg URL
+OFFICE_DMG_FILENAME="MicrosoftOffice.dmg"
+OFFICE_MOUNT_POINT="/Volumes/OfficeInstaller"
+OFFICE_PKG_DIR="$OFFICE_MOUNT_POINT/Installer" # Adjust if needed
+OFFICE_PKG_PREFIX="Microsoft_Office_" # Might vary
+
+curl -L -o "$DOWNLOAD_DIR/$OFFICE_DMG_FILENAME" "$OFFICE_DMG_URL"
+if [ $? -eq 0 ]; then
+  echo "Successfully downloaded $OFFICE_DMG_FILENAME"
+  # Mount the DMG
+  hdiutil attach -mountpoint "$OFFICE_MOUNT_POINT" "$DOWNLOAD_DIR/$OFFICE_DMG_FILENAME"
+  if [ $? -eq 0 ]; then
+    echo "Mounted $OFFICE_DMG_FILENAME"
+    # Find and copy the .pkg files (you might need to adjust the pattern)
+    find "$OFFICE_PKG_DIR" -name "*.pkg" -exec cp {} "$DOWNLOAD_DIR" \;
+    if [ $? -eq 0 ]; then
+      echo "Successfully copied Office .pkg files"
+    else
+      echo "Error copying Office .pkg files"
+    fi
+    # Unmount the DMG
+    hdiutil detach "$OFFICE_MOUNT_POINT"
+    if [ $? -eq 0 ]; then
+      echo "Unmounted $OFFICE_DMG_FILENAME"
+    else
+      echo "Error unmounting $OFFICE_DMG_FILENAME"
+    fi
+  else
+    echo "Error mounting $OFFICE_DMG_FILENAME"
+  fi
+else
+  echo "Error downloading $OFFICE_DMG_FILENAME"
+fi
+
+# --- Upload files to the server using scp ---
+echo "Uploading files to the server..."
+for file in "$DOWNLOAD_DIR"/*.pkg; do
+  if [ -f "$file" ]; then
+    echo "Uploading $(basename "$file") to $SERVER_USER@$SERVER_ADDRESS:$SERVER_PATH"
+    scp "$file" "$SERVER_USER@$SERVER_ADDRESS:$SERVER_PATH"
+    if [ $? -eq 0 ]; then
+      echo "Successfully uploaded $(basename "$file")"
+    else
+      echo "Error uploading $(basename "$file")"
+    fi
+  fi
+done
+
+# --- Clean up local downloads (optional) ---
+# rm -rf "$DOWNLOAD_DIR"
+# echo "Cleaned up local downloads."
+
+echo "Script finished."
