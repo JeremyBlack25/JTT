@@ -32,10 +32,3 @@ As always if you have you need any help with your technology or have any questio
 Thank you, and have a happy week!
 
 #JTT
-
-
-# Users requested access:
-- [ ] Shelley McCall
-- [ ] Cathy Collins
-- [ ] PERI KRIEGER
-- [ ] 

@@ -1,5 +1,7 @@
 ---
 title: A Healthy Battery is a Happy Battery
+draft: false
+description: this is a test
 ---
 
 Hey everyone! 
