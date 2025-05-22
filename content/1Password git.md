@@ -1,3 +1,6 @@
+---
+title: Passable Passwords with 1Password
+---
 
 NPR Article
 [https://www.npr.org/2024/03/11/1236995412/cybersecurity-hackers-schools-ransomware]
