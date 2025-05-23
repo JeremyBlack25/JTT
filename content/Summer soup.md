@@ -1,6 +1,6 @@
 ---
 title: Summer Soup
-date: 
+date: 2025-05-27
 draft: 
 description: Sally sells soup by the sea shore, because sally doesn't understand the first rule of business. Location, location, location.
 ---
