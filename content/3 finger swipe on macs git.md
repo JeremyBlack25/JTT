@@ -1,5 +1,5 @@
 ---
-title: Gestures Are Better Thank clicks
+title: Gestures Are Better Than clicks
 ---
 
 We are ever inching closer to the end of the school year. Fun things are ahead!
