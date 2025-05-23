@@ -11,7 +11,6 @@ Every article is on the left side of the screen. Read through them, refresh your
 Use the search bar on the left to find specific words to help narrow down which article you're looking for?
 
 Written by Jeremy Black
-
 	Field Technician for Canyons School District
 
 See the Quartz [documentation](https://quartz.jzhao.xyz) for how to get started.
