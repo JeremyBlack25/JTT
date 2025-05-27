@@ -23,13 +23,9 @@ I’ve gotten a lot of requests for a reminder on how to get SWANK to work on th
 Common issues:
 1. Sound but no video
 * Make sure you are using **Safari** and following the instructions above
+2. I can’t find my Apple TV in the list
+	It likely needs to be rebooted, if you can access the power cable unplug it for 10ish seconds and plug it back in. wait for it to come back up and try to reconnect.
+	Or Reach out to me and I can have the AV team reboot it remotely, **preferred method**
 
-                I can’t find my Apple TV in the list
-
-It likely needs to be rebooted, if you can access the power cable unplug it for 10ish seconds and plug it back in. wait for it to come back up and try to reconnect.
-
-Or Reach out to me and I can have the AV team reboot it remotely, **preferred method**
-
-The audio keeps skipping but the video seems fine
-
-Either your laptop or the ATV needs to be updated, schedule a time with me and we can look into it.
+3. The audio keeps skipping but the video seems fine
+	Either your laptop or the ATV needs to be updated, schedule a time with me and we can look into it.
