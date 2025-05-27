@@ -15,7 +15,7 @@ I’ve gotten a lot of requests for a reminder on how to get SWANK to work on th
 3. Login with your csddocs.org account ([first.last@csddocs.org](mailto:first.last@csddocs.org "mailto:first.last@csddocs.org"))
 4. Once you have the movie up on your laptop, look for the triangle under a rectangle in the bottom right corner of the movie. 
 
-5. Looks like this: ![[Pictures/Screenshot 2025-03-10 at 4.34.45 PM 1.png]]
+5. Looks like this: ![[/Pictures/Screenshot 2025-03-10 at 4.34.45 PM 1.png]]
 
 6. When you click, it should pull up all the Apple TVs, select yours like normal.
 7. The movie should now be playing on the screen and you can still fully use your laptop.
