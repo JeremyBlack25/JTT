@@ -20,7 +20,7 @@
 - [ ] [[JTT/Apple Classroom & LanschoolAir]] 
 - [ ] Why techs use so much jargon
 - [x] [[JTT/Rate your Technician]]
-- [ ] [[Content/Summer soup]]
+- [ ] [[Summer soup git]]
 - [ ] 
 
 
