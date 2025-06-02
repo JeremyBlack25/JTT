@@ -1,5 +1,5 @@
 ---
-title: Bit Size Printer Tips
+title: Bit-Size Printer Tips
 date: 
 draft: true
 description:
