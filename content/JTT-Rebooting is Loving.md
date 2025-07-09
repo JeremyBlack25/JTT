@@ -6,7 +6,7 @@ description: '"When was the last time you restarted your computer?"'
 ---
 Skip to the bottom to learn how to restart your device.
 
-We all know the classic IT joke "have you tried turning off and back on again?", but did you know that it stems from a long standing tradition of actually working? If you ask a technician, and I mean people that are WAY smarter than me; the kind that can write programs, see walls of code and read it like a novel, actually study what all the green boards and black, lego-looking things do; they can't always tell you WHY restarting your devices fixes your issue! 
+We all know the classic IT joke "Have you tried turning off and back on again?", but did you know that it stems from a long standing tradition of actually working? If you ask a technician, and I mean people that are WAY smarter than me; the kind that can write programs, see walls of code and read it like a novel, actually study what all the green boards and black, lego-looking things do; they can't always tell you WHY restarting your devices fixes your issue! 
 
 Half the time we are doing it as a last ditch effort, praying to the tech gremlins that this sacrifice of closed chrome tabs is enough to appease them. And oddly enough, it does! Most of the time.
 

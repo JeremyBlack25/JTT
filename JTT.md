@@ -17,10 +17,11 @@
 - [x] [[Screen & Spring Cleaning]]
 - [ ] Chrome accounts sync, and window tabs make a bookmark then backup bookmarks before moving to new computer.
 - [ ] [[Cart timers]](include Q&A)
-- [ ] [[JTT/Apple Classroom & LanschoolAir]] 
+- [ ] [[content/Apple Classroom & LanschoolAir]] 
 - [ ] Why techs use so much jargon
 - [x] [[JTT/Rate your Technician]]
 - [x] [[Summer soup git]]
+- [ ] [[What Happened over the Summer?]]
 - [ ] 
 
 
@@ -41,6 +42,7 @@
 - [ ] 
 
 ## Send next year
+- [ ] [[What Happened over the Summer?]]
 - [ ] [[JTT/Cart Timers]]
 - [ ] [[JTT/Learn about the Learn Platform|Learn about the Learn Platform]]
 - [ ] [[JTT/Chromebook Powerwash]]
