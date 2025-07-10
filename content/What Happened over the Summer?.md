@@ -32,7 +32,6 @@ Not only did we run updates on existing student devices, but we also pulled out 
 * Updated all iPads and chromebooks
 * replaced Windows machines that won't take new updates in October
 
-
 ## Prepped for Future Plans
 Technology is an ever moving target and we are constantly having to plan for future changes to make sure things will keep working. While we did the big project of retagging all the (35,000+) chromebooks so the IT department can now fully take over inventory for those, this was only one step. Once that data is in, we are going to do an overhaul on our inventory system to better match our expectations with the new tags.
 
@@ -49,4 +48,12 @@ We are prepping documentation and trainings for all the new systems, software, t
 ## Other Honorable Mentions
 * Google AI
 	* We've worked with Google and gotten some AI stystems approved for usage as a district. Go check out https://gemini.google.com, log in with your csddocs.org account and check out one of the best AI Models out there right now.
-* 
+
+
+
+
+As always if you have you need any help with your technology or have any questions, I'm happy to help! Be sure to submit a ticket through one of the official methods: email help@canyonsdistrict.org or by logging into [tdx.canyonsdistrict.org](http://tdx.canyonsdistrict.org).
+
+Thank you, and have a happy week!
+
+#JTT
