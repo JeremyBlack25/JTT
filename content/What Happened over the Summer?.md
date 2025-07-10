@@ -1,7 +1,7 @@
 ---
 title: What Happened over the Summer?
 date: 2025-08-18
-draft: true
+draft: false
 description: "An overview of everything we did over the summer: Preventative measures, Updates, and Prepped for Future plans."
 ---
 Welcome back!
