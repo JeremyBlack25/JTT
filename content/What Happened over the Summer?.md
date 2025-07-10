@@ -10,7 +10,7 @@ Crazy to think that summer is already over! But we are back and ready to go!
 
 Many of you are probably wondering what we did for the nearly 3 months of the summer. Well, i'd be happy to give you a run-down. With the help 24 student summer interns, all the field techs did some combination of the items i'll mention below. I'll break everything down into 3 sections: Preventative measures, Updates, and Prepped for Future plans.
 
-Too Long Didn't Read-
+**Too Long Didn't Read**-
 ## Preventative Measures
 A big focus in the summer is making sure that everything will work in the next school year. This includes student and staff devices, AV systems, infrastructure, and more! For example, we go through all the student devices (chromebooks, iPads, and computer labs); we check them all to verify they are working correctly and fixing them if not. We also clean everything to keep them looking the best they can and uphold the standards we keep as a district.
 
@@ -34,7 +34,7 @@ Not only did we run updates on existing student devices, but we also pulled out 
 
 
 ## Prepped for Future Plans
-Technology is an ever moving target and we are constantly having to plan for future changes and making sure things will keep working. 
+Technology is an ever moving target and we are constantly having to plan for future changes to make sure things will keep working. 
 
 
 ## Other Honorable Mentions
