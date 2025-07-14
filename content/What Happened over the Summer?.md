@@ -49,7 +49,7 @@ We are prepping documentation and trainings for all the new systems, software, t
 * Google AI
 	* We've worked with Google and gotten some AI stystems approved for usage as a district. Go check out https://gemini.google.com, log in with your csddocs.org account and check out one of the best AI Models out there right now.
 
-
+As you can see, we are quite busy over the summer. So if there is anything that will make you unprepared for school to start, let me know, i've happy to come out and take a look.
 
 
 As always if you have you need any help with your technology or have any questions, I'm happy to help! Be sure to submit a ticket through one of the official methods: email help@canyonsdistrict.org or by logging into [tdx.canyonsdistrict.org](http://tdx.canyonsdistrict.org).
