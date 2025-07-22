@@ -8,7 +8,7 @@ Welcome back!
 
 Crazy to think that summer is already over! But we are back and ready to go!
 
-Many of you are probably wondering what we did for the nearly 3 months of the summer. Well, i'd be happy to give you a run-down. With the help 24 student summer interns, all the field techs did some combination of the items i'll mention below. I'll break everything down into 3 sections: Preventative measures, Updates, and Prepped for Future plans.
+Many of you are probably wondering what we did for the nearly 3 months of the summer. Well, I'd be happy to give you a run-down. With the help 24 student summer interns, all the field techs did some combination of the items i'll mention below. I'll break everything down into 3 sections: Preventative measures, Updates, and Prepped for Future plans.
 
 **Too Long Didn't Read**- Our big focus over the summer is making the whole school year as easy as possible. With new systems, devices, and trainings, there's lots we need to prep for you. We work on everything tech to make it easier for you. If you have any specific questions, let me know.
 ## Preventative Measures
