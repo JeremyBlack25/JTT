@@ -1,7 +1,7 @@
 ---
 title: What Happened over the Summer?
 date: 2025-08-18
-draft: false
+draft: true
 description: "An overview of everything we did over the summer: Preventative measures, Updates, and Prepped for Future plans."
 ---
 Welcome back!
@@ -22,12 +22,12 @@ Our team of repair technicians felt the bulk of this work, across the district w
 * Cart cable organizing
 
 ## Updates
-We update EVERYTHING! If it's an electronic and it's got an update, we try to run the updates. It's also make major changes to get ready for the new school year. Some schools get updated equipment while others just had their existing systems checked and maintained. Like the phone systems, networking systems, projectors and Apple TVs, Skyward, and SO many others!
+We update EVERYTHING! If it's an electronic and it's got an update, we run the updates. "Updates" can also mean making major changes to get ready for the new school year. Some schools get updated equipment while others just had their existing systems checked and maintained. Like the phone systems, networking systems, projectors and Apple TVs, Skyward, and SO many others!
 
-Not only did we run updates on existing student devices, but we also pulled out all the old & broken devices and replaced them with newer working models. 
+Not only did we run updates on existing student devices, but we also pulled out all the old & broken devices and replaced them with newer and/or working models. 
 
 #### Things I worked on
-* Tagged all the new chromebooks with our new asset tags. ~1000
+* Tagged all the new chromebooks with our new asset tags. ~1000 across all 3 schools
 * Replaced old iPads and chromebooks with new models
 * Updated all iPads and chromebooks
 * replaced Windows machines that won't take new updates in October
