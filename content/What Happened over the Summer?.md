@@ -31,6 +31,7 @@ Not only did we run updates on existing student devices, but we also pulled out 
 * Replaced old iPads and chromebooks with new models
 * Updated all iPads and chromebooks
 * replaced Windows machines that won't take new updates in October
+* ClassLinked change from Clever. Making sure it has been deployed and that Clever has been removed.
 
 ## Prepped for Future Plans
 Technology is an ever moving target and we are constantly having to plan for future changes to make sure things will keep working. While we did the big project of retagging all the (35,000+) chromebooks so the IT department can now fully take over inventory for those, this was only one step. Once that data is in, we are going to do an overhaul on our inventory system to better match our expectations with the new tags.
@@ -43,7 +44,10 @@ We are prepping documentation and trainings for all the new systems, software, t
 * Documenting our processes so all Field Techs can improve our customer support.
 	* Mainly things that new techs may not know, they can have a place to look things up, improving the speed they can resolve issues moving forward.
 * Chromebook inventory system
-* 
+* Sat in on a few meetings discussing certain systems and what they could look like in a few years, like the volunteer kiosks.
+	* Nothing has been decided in any of these meetings, it's still part of the proposal phase. But it goes to show that we are constantly trying to be ready.
+* Prepping our "to-do" list for next summer (yeah, already! haha)
+* New To The District Teacher Technology Pick Up Day (NTTDTTPUD). We set up devices and help the new staff get logged into everything and answer any questions they might have.
 
 ## Other Honorable Mentions
 * Google AI
