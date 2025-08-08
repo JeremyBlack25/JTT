@@ -9,9 +9,16 @@ Students come back in one week and there's lots that needs to be done in the mea
 2. If it feels like it's been a reasonable amount of time and you haven't seen anything from me, please give me a little reminder/nudge. start of school is our busiest time out of the whole year and i forget things, or things get lost between the cracks.
 3. I kindly request that if you need something, please put in a ticket through tdx.canyonsdistrict.org.
 	1. All other forms carry no guarantee that it will be completed as i can get bombarded and texts, emails, sticky notes can be lost, buried, or looked over. Tickets stay around until I close them.
-4. I've tried to do some precursor stuff in terms of your speaker and projector systems. I've sent our interns around to check everything and make sure it's working, if you find that it's not please let me know. We want to make sure that's ready BEFORE school starts. So please take just a moment to check if all your classroom tech is working like its supposed to.
+4. I've tried to do some precursor stuff in terms of your speaker and projector systems. I've sent our interns around to check everything and make sure it's working, if you find that it's not please let me know. We want to make sure that's ready BEFORE school starts. Here's a list of things to do to make sure that the first day of school starts.
+	1. Make sure you have all the printers you need, and they all function correctly.
+	2. make sure your devices don't have any updates that need to be installed
+	3. Make sure you have charging cables for your staff laptops.
+	4. Check that your Apple TV works (you see it, it plays sound and video)
+	5. Make sure you are connected to the CSD-Auth WIFI
+	6. Make sure you have AT LEAST 2 extra devices in your cart (iPad or Chromebook)
+	7. Lastly, you know how to put in a ticket in case any of this doesn't work or needs me to look at it.
 
-I'll be starting my Jeremy Tech Tips up next week. and if you have any suggestions of what you'd like to see, please let me know. i'm making these for you and I want to make sure they are something that you would be interested in seeing.
+I'll be starting my Jeremy Tech Tips up next week, and if you have any suggestions of what you'd like to see, please let me know. i'm making these for you and I want to make sure they are something that you would be interested in seeing.
 
 
 Welcome back from your summer, i'm super excited for another school year with you all! Please reach out if you need anything at all.
