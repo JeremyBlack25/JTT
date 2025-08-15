@@ -34,7 +34,7 @@ Not only did we run updates on existing student devices, but we also pulled out 
 * ClassLinked change from Clever. Making sure it has been deployed and that Clever has been removed.
 
 ## Prepped for Future Plans
-Technology is an ever moving target and we are constantly having to plan for future changes to make sure things will keep working. While we did the big project of retagging all the (35,000+) chromebooks so the IT department can now fully take over inventory for those, this was only one step. Once that data is in, we are going to do an overhaul on our inventory system to better match our expectations with the new tags.
+Technology is an ever moving target and we are constantly having to plan for future changes to make sure things keep working. While we did the big project of retagging all the (35,000+) chromebooks so the IT department can now fully take over inventory for those, this was only one step. Once that data is in, we are going to do an overhaul on our inventory system to better match our expectations with the new tags.
 
 We are getting ready for the new business skyward called, Qmulative (or Q). This change was scheduled for April, but got pushed back to October because it is a huge project and too many variables kept us from going live.
 
