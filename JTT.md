@@ -44,8 +44,8 @@
 ## Send next year
 - [x] Aug 11 - [[Email Drafts/Welcome Back | Welcome Back & ticket expectations]]
 - [ ] Aug 18 (first day of school - [[What Happened over the Summer?]]
-- [ ] Aug 25 - [[content/Adobe Setup & Uses]]
-- [ ] Sept 1 - [[content/adding shared calendar in Outlook]]
+- [ ] Aug 25 -  [[content/adding shared calendar in Outlook]]
+- [ ] Sept 1 - [[content/Adobe Setup & Uses]]
 - [ ] [[JTT/Cart Timers]]
 - [ ] [[JTT/Learn about the Learn Platform|Learn about the Learn Platform]]
 - [ ] [[JTT/Chromebook Powerwash]]
