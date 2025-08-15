@@ -42,7 +42,7 @@
 - [ ] 
 
 ## Send next year
-- [ ] Aug 11 - [[Email Drafts/Welcome Back | Welcome Back & ticket expectations]]
+- [x] Aug 11 - [[Email Drafts/Welcome Back | Welcome Back & ticket expectations]]
 - [ ] Aug 18 (first day of school - [[What Happened over the Summer?]]
 - [ ] Aug 25 - [[content/Adobe Setup & Uses]]
 - [ ] Sept 1 - [[content/adding shared calendar in Outlook]]
