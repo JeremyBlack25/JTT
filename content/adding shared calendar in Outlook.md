@@ -1,7 +1,7 @@
 ---
 title: Adding a shared calendar to Outlook
 date: 2025-08-25
-draft: true
+draft: false
 description: Outlook can be intimidating. never fear, this simple guide will be the boost you need to feel confident again!
 recipiants: _EastMidvaleES_Staff <_EastMidvaleES_Staff@canyonsdistrict.org>; _OakdaleES_Staff <_OakdaleES_Staff@canyonsdistrict.org>; _CanyonViewES_Staff <_CanyonViewES_Staff@canyonsdistrict.org>
 ---

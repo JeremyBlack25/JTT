@@ -35,7 +35,7 @@
 	- [ ] [[Bite-Size printer tips]] pt3
 	- [ ] [[Bite-Size printer tips]] pt 4
 	- [ ] [[Bite-Size printer tips]] pt 5
-- [x] April 28-[[JTT/Self-serve with Mosyle|Self-serve with Mosyle]]
+- [x] April 28-[[Self-serve with Mosyle git]]
 - [x] May 5 - [[JTT/3 finger swipe on macs]]
 - [x] May 12 - [[Screen & Spring Cleaning]]
 - [x] May 19 - [[JTT/Rate your Technician]]
