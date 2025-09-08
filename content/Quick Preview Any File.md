@@ -6,7 +6,8 @@ description:
 ---
 ### **Instantly Preview Files Without Opening Them** 📂
 
-Do you hate when you are trying to find the right document, but end up opening all the windows or apps just to get a quick view of what it is? Luckily Apple has a feature to help with that already. (windows users, download this app and get the same feature, life. saver! https://apps.microsoft.com/detail/9nv4bs3l1h4s?hl=en-US&gl=US)
+Do you hate when you are trying to find the right document, but end up opening all the windows or apps just to get a quick view of what it is? Luckily Apple has a feature to help with that already. 
+(windows users, download this app and get the same feature, LIFE. SAVER. https://apps.microsoft.com/detail/9nv4bs3l1h4s?hl=en-US&gl=US)
 
 Instead of double-clicking to open files one by one to find the one you need, you can use a feature called **Quick Look** to instantly see a preview. This works for almost any file type, including documents, images, and videos.
 
