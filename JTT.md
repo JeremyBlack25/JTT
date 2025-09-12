@@ -8,7 +8,7 @@
 - [ ] How to scan-to-email on the new copiers
 - [ ] How to use Go-To
 - [x] [[JTT/Self-serve with Mosyle]]
-- [ ] [[JTT/Learn about the Learn Platform|Learn about Learn Platform]]
+- [ ] [[content/Learn about the Learn Platform|Learn about Learn Platform]]
 - [x] [[JTT/Fishing vs Phishing|Fishing vs Phishing]]
 	- [x] Make them do Hanna's phishing quiz and share their results (I did this, and people liked it)
 - [ ] How to customize their Control Center (to show/hide bluetooth, weather, airplay, wifi, etc)
@@ -47,7 +47,7 @@
 - [x] Aug 25 -  [[content/adding shared calendar in Outlook]]
 - [ ] Sept 8 - [[Quick Preview Any File]]
 - [ ] [[JTT/Cart Timers]]
-- [ ] [[JTT/Learn about the Learn Platform|Learn about the Learn Platform]]
+- [ ] [[content/Learn about the Learn Platform|Learn about the Learn Platform]]
 - [ ] [[JTT/Chromebook Powerwash]]
 - [ ] [[JTT/Putting in a Ticket (video?)]]
 - [ ] 
