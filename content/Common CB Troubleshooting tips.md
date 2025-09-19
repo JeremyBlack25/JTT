@@ -4,7 +4,7 @@ date:
 draft:
 description:
 ---
-## Chromebook Power-wash
+# Chromebook Power-wash
 
 - Make sure you are on the login screen
 - Press: ctrl + alt + Shift + R
@@ -15,16 +15,18 @@ description:
 - It will do some setup that will take just a minute
 - It should come to a screen that says you’re ready to go and you can click “Done”
 
-  
 
-## Chromebook Screen Rotation
+
+
+# Chromebook Screen Rotation
 
 Sometimes Students find ways to get their screen in all kinds of weird positions. if you find the screen is rotated try this:
 Press Ctrl + Shift + refresh to rotate your screen 90 degrees until it is back to normal.
 
   
 
-## Chromebook, Login with “old Password”
+
+# Chromebook, Login with “old Password”
 
 The student that is having issues with the “old Password”. We aren’t sure exactly why it does that, but somehow our servers talking with Google gets messed up with students sometimes and it thinks that the password changed. You just need to hit “forgot password” and then confirm that you want to make a new account. It will delete the student’s account, but since everything is saved in the Cloud anyway, nothing is going to change. 
 
@@ -33,7 +35,8 @@ If it is not giving you the option of “forgot password” then you will need t
 Let me know if you have any issues.
 
 
-## **Chromebook Blank screen but power indicator turns on**
+
+# **Chromebook Blank screen but power indicator turns on**
 Sometimes chromebooks get a little stuck when turning on and need a little help. This trick is basically pulling out the battery and putting it back in (for all those that had phones in the 2000s).
 
 1. Open the chromebook and make sure the power light is on or blinking
