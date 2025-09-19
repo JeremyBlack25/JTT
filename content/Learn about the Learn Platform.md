@@ -6,7 +6,7 @@ description:
 ---
 In our recent Data Privacy Trainings, they talked about something that I wanted to shed more light on. "Metadata Dictionary". Covered in section 1.4 of Data Privacy and Security Training "Sharing PII".
 
-Like it says in the training, the school district required to keep this list of apps and websites that are approved or not and how they fall into our data privacy requirements. You can actually see this list for yourself. Just head to https://learn.canyonsdistrict.org and sign in with your @csddocs.org account and you can search any and all apps/websites we approve or not for official staff and student use.
+Like it says in the training, the school district is required to keep this list of apps and websites that are approved or not and how they fall into our data privacy requirements. You can actually see this list for yourself. Just head to https://learn.canyonsdistrict.org and sign in with your @csddocs.org account and you can search any and all apps/websites we approve or not for official staff and student use.
 
 For example: CapCut, a very popular video editing software, is not approved for use, unless under very specific circumstances, a teacher can get parental consent to use the app. But other apps are recommended first.
 
