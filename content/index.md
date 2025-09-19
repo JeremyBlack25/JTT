@@ -4,6 +4,9 @@ title: Welcome to Jeremy Tech Tips
 This is a little storage place for all the JTT Articles i've sent out so far.
 
 Feel Free to send these out to anyone that would be interested, and send me tips that you'd like to see!
+
+>I've curated a quick reference guide for Chromebook issues and troubleshooting steps.
+>Check them out at [[Common CB Troubleshooting tips]]
 # How to use
 Every article is on the left side of the screen. Read through them, refresh yourself and come back later to check out more as they come out.
 
