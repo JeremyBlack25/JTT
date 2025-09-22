@@ -46,6 +46,13 @@ Sometimes chromebooks get a little stuck when turning on and need a little help.
 5. If nothing happens, you can try step 2 again, waiting 5-10 seconds instead.
 6. If nothing happens still, put in a ticket (or update your existing one) and I’ll come take a look.
 
+# Touchpad works in login screen but stops working when a student logs in
+I've seen an uptick in this recently. The students are going into their settings and disabling their touchpad completely. They then close the chromebook and put it away, hoping that it fixes itself.
+
+To fix this, Google made it easy. Just press **shift** 5+ times to turn it back on while the student is logged in. it will re-enable the touchpad back to normal. 
+
+This feature is there for users that only use a mouse and don't want to accidentally mess anything up with the touchpad.
+
 As always if you have you need any help with your technology or have any questions, I'm happy to help! Be sure to submit a ticket through one of the official methods: email help@canyonsdistrict.org or by logging into [tdx.canyonsdistrict.org](http://tdx.canyonsdistrict.org).
 
 Thank you, and have a happy week!
