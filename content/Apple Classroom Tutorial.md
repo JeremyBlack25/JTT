@@ -29,7 +29,8 @@ Notes before you start:
 5. "invite students"
 6. now you are ready to start enrolling your iPads
 
-*These instructions also work on the laptop. The app should already be in your Applications folder.*
+>*These instructions also work on the laptop. The app should already be in your Applications folder.*
+>Laptop and iPad do not show up as the same classroom, they are two seperate classes, so you can really only have 1 running at a time.
 
 #### Enrolling iPads
 1. On student iPad, navigate to the settings app
