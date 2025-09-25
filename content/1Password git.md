@@ -8,7 +8,7 @@ NPR Article
 Are your passwords safe? if someone got on your laptop, what could they log into? Your gradebook, your internet provider, phone provider, your bank account? Are your passwords written down in a notebook you keep readily available?
 
 If any of those questions gave you a slight pause, then you probably need to learn about password security.
->"In 2023, individuals over the age of 60 accounted for the highest number of recorded cyber crime victims in the United States. According to the latest data, more than 104,068 people reported cyber crimes in the year examined. The second-most targeted were individuals between 30 and 39 years, with over 88 thousand complaints." [Link to Stats](https://www.statista.com/statistics/1390164/us-victims-cyber-crime-by-age/)
+>[!info] "In 2023, individuals over the age of 60 accounted for the highest number of recorded cyber crime victims in the United States. According to the latest data, more than 104,068 people reported cyber crimes in the year examined. The second-most targeted were individuals between 30 and 39 years, with over 88 thousand complaints." [Link to Stats](https://www.statista.com/statistics/1390164/us-victims-cyber-crime-by-age/)
 
 Cybercrimes can include everything from getting access to your gmail, stealing your data, or full identity theft.
 
