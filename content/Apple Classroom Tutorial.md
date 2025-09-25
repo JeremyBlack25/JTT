@@ -12,7 +12,8 @@ It's not a perfect system, and they students may find ways around the app. It's 
 
 Notes before you start:
 * only need the app on your staff device (it should already be there, let me know if not)
-* You going to want to assign an iPad per student, otherwise it could make it harder to know who's not on task
+* You are going to want to assign one iPad per student, otherwise it could make it harder to know who's not on task.
+	* a numbering system is great, or you can name each iPad after a student
 
 
 #### Teacher iPad Setup Instructions
