@@ -29,6 +29,8 @@ Notes before you start:
 5. "invite students"
 6. now you are ready to start enrolling your iPads
 
+*These instructions also work on the laptop. The app should already be in your Applications folder.*
+
 #### Enrolling iPads
 1. On student iPad, navigate to the settings app
 2. Underneath Bluetooth, a new icon should appear. Classroom
