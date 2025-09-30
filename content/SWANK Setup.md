@@ -14,18 +14,15 @@ I’ve gotten a lot of requests for a reminder on how to get SWANK to work on th
 2. Copy and paste your link into your SAFARI browser.
 3. Login with your csddocs.org account ([first.last@csddocs.org](mailto:first.last@csddocs.org "mailto:first.last@csddocs.org"))
 4. Once you have the movie up on your laptop, look for the triangle under a rectangle in the bottom right corner of the movie. 
-
-5. Looks like this: ![[/Pictures/Screenshot 2025-03-10 at 4.34.45 PM 1.png]]
-
-6. When you click, it should pull up all the Apple TVs, select yours like normal.
-7. The movie should now be playing on the screen and you can still fully use your laptop.
+5. When you click, it should pull up all the Apple TVs, select yours like normal.
+6. The movie should now be playing on the screen and you can still fully use your laptop.
 
 Common issues:
 1. Sound but no video
-		Make sure you are using **Safari** and following the instructions above
+	1. make sure you are using **Safari** and following the instructions above
 2. I can’t find my Apple TV in the list
-		It likely needs to be rebooted, if you can access the power cable unplug it for 10ish seconds and plug it back in. wait for it to come back up and try to reconnect.
-	Or Reach out to me and I can have the AV team reboot it remotely, **preferred method**
+	1. It likely needs to be rebooted, if you can access the power cable unplug it for 10ish seconds and plug it back in. wait for it to come back up and try to reconnect.
+	2. Or Reach out to me and I can have the AV team reboot it remotely, **preferred method**
 
 3. The audio keeps skipping but the video seems fine
-		Either your laptop or the ATV needs to be updated, schedule a time with me and we can look into it.
+	1. Either your laptop or the ATV needs to be updated, schedule a time with me and we can look into it.
