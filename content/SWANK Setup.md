@@ -6,7 +6,7 @@ Date: 2025-05-20
 ---
 Hey everyone! 
 
-We’ve hit that time of year when movies are plentiful and patience is thin. But keep your head up, we have 1.5 weeks left! Crazy to think already!
+We’ve hit that time of year when movies are plentiful and patience is thin. 
 
 I’ve gotten a lot of requests for a reminder on how to get SWANK to work on the Apple TVs. I recommend trying this out at least a day ahead to work out any bugs before you have a class of rowdy kids that want to watch Cars. So here it is:
 
@@ -23,6 +23,5 @@ Common issues:
 2. I can’t find my Apple TV in the list
 	1. It likely needs to be rebooted, if you can access the power cable unplug it for 10ish seconds and plug it back in. wait for it to come back up and try to reconnect.
 	2. Or Reach out to me and I can have the AV team reboot it remotely, **preferred method**
-
 3. The audio keeps skipping but the video seems fine
 	1. Either your laptop or the ATV needs to be updated, schedule a time with me and we can look into it.
