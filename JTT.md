@@ -2,7 +2,7 @@
 - [x] [[JTT/Battery Upkeep |Battery Upkeep]]
 - [x] [[JTT/1Password |1Password]]
 - [ ] [[JTT/Website Block Requests|Website Block Requests]]
-- [ ] [[JTT/Chromebook Powerwash|Chromebook Powerwash]]
+- [x] [[JTT/Chromebook Powerwash|Chromebook Powerwash]]
 - [x] [[JTT/Restarting is Loving|Restarting is Loving Your Device]]
 - [ ] [[JTT/Putting in a Ticket (video?)|Putting in a Ticket]]
 - [ ] How to scan-to-email on the new copiers
@@ -18,7 +18,7 @@
 - [ ] Chrome accounts sync, and window tabs make a bookmark then backup bookmarks before moving to new computer.
 - [ ] [[Cart timers]](include Q&A)
 - [ ] [[content/Apple Classroom & LanschoolAir]] 
-- [ ] Why techs use so much jargon
+- [ ] [[Content/Why techs use so much jargon]]
 - [x] [[JTT/Rate your Technician]]
 - [x] [[Summer soup git]]
 - [ ] [[What Happened over the Summer?]]
