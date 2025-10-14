@@ -18,10 +18,10 @@
 - [ ] Chrome accounts sync, and window tabs make a bookmark then backup bookmarks before moving to new computer.
 - [ ] [[Cart timers]](include Q&A)
 - [ ] [[content/Apple Classroom & LanschoolAir]] 
-- [ ] [[Why techs use so much Jargon]]
+- [x] [[Why techs use so much Jargon]]
 - [x] [[JTT/Rate your Technician]]
 - [x] [[Summer soup git]]
-- [ ] [[What Happened over the Summer?]]
+- [x] [[What Happened over the Summer?]]
 - [ ] 
 
 
