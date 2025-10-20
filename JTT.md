@@ -22,7 +22,7 @@
 - [x] [[JTT/Rate your Technician]]
 - [x] [[Summer soup git]]
 - [x] [[What Happened over the Summer?]]
-- [ ] 
+- [ ] [[content/how does amazon control ClassLink]]
 
 
 ## Release Schedule:
