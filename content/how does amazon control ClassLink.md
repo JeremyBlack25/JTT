@@ -18,7 +18,7 @@ Classlink is a company that has paid AWS to use their hardware to host the websi
 I think this is fascinating because we don't really think about how the internet works, it just does. And then days like today happen where everything goes down and we start wondering "why".
 
 # Status Update
-Amazon is starting to find solutions for their problem but, out of 139 services, only 38 have been resolved. https://health.aws.amazon.com/health/status I'm hoping that by school tomorrow they will have Classlink and others back up in time for school tomorrow.
+Amazon is starting to find solutions for their problem but, out of 139 services, only 38 have been resolved. https://health.aws.amazon.com/health/status I'm hoping that they will have Classlink and others back up in time for school tomorrow.
 
 As always if you need any help with your technology or have any questions, I'm happy to help! Be sure to submit a ticket through one of the official methods: email help@canyonsdistrict.org or by logging into [tdx.canyonsdistrict.org](http://tdx.canyonsdistrict.org).
 
