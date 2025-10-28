@@ -1,7 +1,7 @@
 ## Articles Written
 - [x] [[JTT/Battery Upkeep |Battery Upkeep]]
 - [x] [[JTT/1Password |1Password]]
-- [ ] [[JTT/Website Block Requests|Website Block Requests]]
+- [ ] [[Website Block Requests|Website Block Requests]]
 - [x] [[JTT/Chromebook Powerwash|Chromebook Powerwash]]
 - [x] [[JTT/Restarting is Loving|Restarting is Loving Your Device]]
 - [ ] [[JTT/Putting in a Ticket (video?)|Putting in a Ticket]]
