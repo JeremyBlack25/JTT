@@ -1,3 +1,14 @@
+
+
+## Release Schedule:
+	
+- [ ] [[Bite-Size printer tips]] pt3
+- [ ] [[Bite-Size printer tips]] pt 4
+- [ ] [[Bite-Size printer tips]] pt 5
+- [x] April 28-[[Self-serve with Mosyle git]]
+- [ ] Nov 9 - [[content/is it actually wifi]]
+- [ ] Nov 16 - [[content/liquid damage? call me!]]
+
 ## Articles Written
 - [x] [[JTT/Battery Upkeep |Battery Upkeep]]
 - [x] [[JTT/1Password |1Password]]
@@ -23,18 +34,6 @@
 - [x] [[Summer soup git]]
 - [x] [[What Happened over the Summer?]]
 - [ ] [[content/how does amazon control ClassLink]]
-
-
-## Release Schedule:
-	
-- [ ] [[Bite-Size printer tips]] pt3
-- [ ] [[Bite-Size printer tips]] pt 4
-- [ ] [[Bite-Size printer tips]] pt 5
-- [x] April 28-[[Self-serve with Mosyle git]]
-- [ ] [[content/is it actually wifi]]
-- [ ] 
-
-
 
 As always if you have you need any help with your technology or have any questions, I'm happy to help! Be sure to submit a ticket through one of the official methods: email help@canyonsdistrict.org or by logging into [tdx.canyonsdistrict.org](http://tdx.canyonsdistrict.org).
 
