@@ -26,31 +26,12 @@
 
 
 ## Release Schedule:
-- [x] March 10-[[Battery Upkeep]]
-- [x] March 17-[[1Password]]
-- [x] March 24-[[Fishing vs Phishing]]
-- [x] March 31-[[JTT/Restarting is Loving|Restarting is Loving]]
-- [x] April 14-[[Bite-Size printer tips]]
-- [x] April 21-[[Bite-Size printer tips]] pt 2
-	- [ ] [[Bite-Size printer tips]] pt3
-	- [ ] [[Bite-Size printer tips]] pt 4
-	- [ ] [[Bite-Size printer tips]] pt 5
+	
+- [ ] [[Bite-Size printer tips]] pt3
+- [ ] [[Bite-Size printer tips]] pt 4
+- [ ] [[Bite-Size printer tips]] pt 5
 - [x] April 28-[[Self-serve with Mosyle git]]
-- [x] May 5 - [[JTT/3 finger swipe on macs]]
-- [x] May 12 - [[Screen & Spring Cleaning]]
-- [x] May 19 - [[JTT/Rate your Technician]]
-- [ ] 
-
-## Send next year
-- [x] Aug 11 - [[Email Drafts/Welcome Back | Welcome Back & ticket expectations]]
-- [x] Aug 18 (first day of school - [[What Happened over the Summer?]]
-- [x] Aug 25 -  [[content/adding shared calendar in Outlook]]
-- [x] Sept 8 - [[Quick Preview Any File]]
-- [ ] [[JTT/Cart Timers]]
-- [x] [[content/Learn about the Learn Platform|Learn about the Learn Platform]]
-- [x] [[JTT/Chromebook Powerwash]]
-- [ ] [[JTT/Putting in a Ticket (video?)]]
-- [ ] 
+- [ ] [[content/is it actually wifi]]
 - [ ] 
 
 
