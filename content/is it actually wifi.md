@@ -4,12 +4,30 @@ date:
 draft: true
 description:
 ---
-In a world of electronics and everything needing to connect to everything, it can sometimes be difficult to know when things are broken, what is actually broken.
+In a world of electronics and everything needing to connect to everything, it can sometimes be difficult to know when things are broken, when it't wifi, just being slow, or some combo!
+
+Well, i wanna give you a few tips and tricks to help you find out. Knowing what's wrong makes it faster to fix the problem.
+
+first thing to find out if it's an internet issue, try just a normal Google search. open a new tab, and i'll just simply search the world "hello". if it pops up with pictures of Adele, i know i'm connected to the internet. This will work on laptops, phones and iPads.
+
+## So internet isn't down, what now?
+try a few websites that you know should work, like all the time. a few i do:
+https://speedtest.uen.net
+https://speedtest.net
+https://amazon.com
+https://youtube.com
+
+If you are having trouble getting to these or other websites but google works fine, then you may need to call me. But if they are working, then there's a chance that site is down or having issues.
+
+I'm getting a weird block page
+
+![[Screenshot 2025-11-17 at 12.04.12 PM.png]]
+
 
 Apple TV
 Websites
 apps
-
+phone
 
 Is it wifi, or an app that isn't working? here's how to find out. 
 
