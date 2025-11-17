@@ -8,6 +8,8 @@ In a world of electronics and everything needing to connect to everything, it ca
 
 Apple TV
 Websites
+apps
+
 
 Is it wifi, or an app that isn't working? here's how to find out. 
 
