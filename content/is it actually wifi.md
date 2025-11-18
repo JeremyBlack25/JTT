@@ -17,12 +17,13 @@ https://speedtest.net
 https://amazon.com
 https://youtube.com
 
-If you are having trouble getting to these or other websites but google works fine, then you may need to call me. But if they are working, then there's a chance that site is down or having issues.
+If you are having trouble getting to these or other websites but google works fine, then you may need to call me. But if they are working, then there's a chance that first site is down or having issues.
 
-I'm getting a weird block page
+# Common Issues
+## I'm getting a weird block page
 
 ![[Screenshot 2025-11-17 at 12.04.12 PM.png]]
-
+This is getting blocked on a system level
 
 Apple TV
 Websites
