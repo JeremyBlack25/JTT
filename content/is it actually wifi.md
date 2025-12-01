@@ -4,11 +4,11 @@ date:
 draft: true
 description:
 ---
-In a world of electronics and everything needing to connect to everything, it can sometimes be difficult to know when things are broken, when it't wifi, just being slow, or some combo!
+In a world of electronics and everything needing to connect to everything, it can sometimes be difficult to know when things are broken, when it isn't wifi, just being slow, or some combo!
 
 Well, i wanna give you a few tips and tricks to help you find out. Knowing what's wrong makes it faster to fix the problem.
 
-first thing to find out if it's an internet issue, try just a normal Google search. open a new tab, and i'll just simply search the world "hello". if it pops up with pictures of Adele, i know i'm connected to the internet. This will work on laptops, phones and iPads.
+First thing to find out if it's an internet issue, try just a normal Google search. open a new tab, and i'll just simply search the world "hello". if it pops up with pictures of Adele, i know i'm connected to the internet. This will work on laptops, phones and iPads.
 
 ## So internet isn't down, what now?
 try a few websites that you know should work, like all the time. a few i do:
@@ -23,7 +23,8 @@ If you are having trouble getting to these or other websites but google works fi
 ## I'm getting a weird block page
 
 ![[Screenshot 2025-11-17 at 12.04.12 PM.png]]
-This is getting blocked on a system level
+This is getting blocked on a system level, meaning that it's hitting a filter, send me a picture and we can dive in together.
+
 
 Apple TV
 Websites
