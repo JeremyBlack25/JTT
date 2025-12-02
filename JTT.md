@@ -7,7 +7,7 @@
 - [ ] [[Bite-Size printer tips]] pt 5
 - [x] April 28-[[Self-serve with Mosyle git]]
 - [x] Nov 9 - [[Where are your screenshots going?]]
-- [ ] Nov 17 - [[content/is it actually wifi]]
+- [x] Nov 17 - [[content/is it actually wifi]]
 - [ ] Nov 23 - [[content/liquid damage? call me!]]
 
 ## Articles Written
