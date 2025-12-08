@@ -1,7 +1,7 @@
 ---
 title: Amazon = ClassLink?
 date: 2025-10-20
-draft:
+draft: false
 description: how does amazon affect ClassLink at all?
 ---
 It's been quite the week already! 

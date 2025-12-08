@@ -1,5 +1,6 @@
 ---
 title: Welcome to Jeremy Tech Tips
+draft: false
 ---
 This is a little storage place for all the JTT Articles i've sent out so far.
 
