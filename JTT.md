@@ -10,6 +10,8 @@
 - [x] Nov 17 - [[content/is it actually wifi]]
 - [ ] Nov 23 - [[content/liquid damage? call me!]]
 - [ ] Dec 7 - [[Closed tabs]]
+- [ ] Dec 14 - [[content/quick switch]]
+- [ ] 
 
 ## Articles Written
 - [x] [[JTT/Battery Upkeep |Battery Upkeep]]
