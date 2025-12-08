@@ -36,7 +36,7 @@
 - [x] [[JTT/Rate your Technician]]
 - [x] [[Summer soup git]]
 - [x] [[What Happened over the Summer?]]
-- [ ] [[content/how does amazon control ClassLink]]
+- [x] [[content/how does amazon control ClassLink]]
 
 As always if you have you need any help with your technology or have any questions, I'm happy to help! Be sure to submit a ticket through one of the official methods: email help@canyonsdistrict.org or by logging into [tdx.canyonsdistrict.org](http://tdx.canyonsdistrict.org).
 
