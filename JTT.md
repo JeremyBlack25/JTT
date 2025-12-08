@@ -8,10 +8,9 @@
 - [x] April 28-[[Self-serve with Mosyle git]]
 - [x] Nov 9 - [[Where are your screenshots going?]]
 - [x] Nov 17 - [[content/is it actually wifi]]
-- [ ] Nov 23 - [[content/liquid damage? call me!]]
-- [ ] Dec 7 - [[Closed tabs]]
-- [ ] Dec 14 - [[content/quick switch]]
-- [ ] 
+- [x] Dec 8 - [[Closed tabs]]
+- [ ] Dec 15 - [[content/quick switch]]
+- [ ]  January 4 - [[content/liquid damage? call me!]]
 
 ## Articles Written
 - [x] [[JTT/Battery Upkeep |Battery Upkeep]]
