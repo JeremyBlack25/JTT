@@ -18,7 +18,7 @@ First and formost, using the new updates means it's more secure. The longer your
 # Fix problems
 Sometimes things don't work when you launch a product and you find out what isn't working. Just like making a new lesson plan and finding out things don't work and needing to change on the fly or change it for the next class.
 
-Developers will fix over time as they come up. So if you are having certain issues that can't be fixed by other methods, updates are a good way to try and fix those. Updates for MacOS, Windows, apps, they all can benefit in the same way.
+Developers will fix things over time as they come up. So if you are having certain issues that can't be fixed by other methods, updates are a good way to try and fix those. Updates for MacOS, Windows, apps, they all can benefit in the same way.
 
 # Getting to the Point
 I want to start running updates on everyone's computer that needs it.
