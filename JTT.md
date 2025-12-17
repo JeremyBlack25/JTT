@@ -9,7 +9,7 @@
 - [x] Nov 9 - [[Where are your screenshots going?]]
 - [x] Nov 17 - [[content/is it actually wifi]]
 - [x] Dec 8 - [[Closed tabs]]
-- [ ] Dec 15 - [[content/quick switch]]
+- [ ] Dec 15 - [[quick switch]]
 - [ ] Jan 4 - [[content/liquid damage? call me!]]
 
 ## Articles Written
