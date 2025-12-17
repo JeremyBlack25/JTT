@@ -10,6 +10,7 @@
 - [x] Nov 17 - [[content/is it actually wifi]]
 - [x] Dec 8 - [[Closed tabs]]
 - [ ] Dec 15 - [[quick switch]]
+- [ ] Jan 5 - [[content/Apple Laptop Tips/Updates, wherefore art thou]]
 - [ ] Jan 4 - [[content/liquid damage? call me!]]
 
 ## Articles Written
