@@ -6,7 +6,7 @@ description:
 ---
 New year, new updates. 
 
-**Fun fact** about the "wherefore art thou" phrase. I always thought it was saying "where are you?", but it's ACTUALLY saying "why are you?". Essentially, "why are you a Montague and not someone else? Then my love wouldn't be forbidden." Basically showing how language changes over time and what used to mean "why" it can't change to "where".
+**Fun fact** about the "wherefore art thou" phrase from Romeo & Juliet. I always thought it was saying "where are you?", but it's ACTUALLY saying "why are you?". Essentially, "why are you a Montague and not someone else? Then my love wouldn't be forbidden." Basically showing how language changes over time and what used to mean "why" it can change to "where".
 
 But that's not the tech tip today. Using technology also means, updating technology. So why are updates so important?
 
@@ -21,7 +21,7 @@ Sometimes things don't work when you launch a product and you find out what isn'
 Developers will fix things over time as they come up. So if you are having certain issues that can't be fixed by other methods, updates are a good way to try and fix those. Updates for MacOS, Windows, apps, they all can benefit in the same way.
 
 # Getting to the Point
-I want to start running updates on everyone's computer that needs it.
+I want to start running updates on **everyone's** computer that needs it.
 
 As always if you need any help with your technology or have any questions, I'm happy to help! Be sure to submit a ticket through one of the official methods: email help@canyonsdistrict.org or by logging into [tdx.canyonsdistrict.org](http://tdx.canyonsdistrict.org).
 
