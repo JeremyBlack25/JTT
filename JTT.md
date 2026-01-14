@@ -33,7 +33,7 @@
 - [x] [[Screen & Spring Cleaning]]
 - [ ] Chrome accounts sync, and window tabs make a bookmark then backup bookmarks before moving to new computer.
 - [ ] [[Cart timers]](include Q&A)
-- [ ] [[content/Apple Classroom & LanschoolAir]] 
+- [ ] [[Apple Classroom & LanschoolAir]] 
 - [x] [[Why techs use so much Jargon]]
 - [x] [[JTT/Rate your Technician]]
 - [x] [[Summer soup git]]
