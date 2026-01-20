@@ -9,10 +9,11 @@
 - [x] Nov 9 - [[Where are your screenshots going?]]
 - [x] Nov 17 - [[content/is it actually wifi]]
 - [x] Dec 8 - [[Closed tabs]]
-2026
+## 2026
 - [x] Jan 12- [[quick switch]]
 - [x] Jan 5 - [[content/Apple Laptop Tips/Updates, wherefore art thou]]
-- [ ] Jan 4 - [[content/liquid damage? call me!]]
+- [ ] Jan 20 - [[content/Timer Time!]]
+- [ ] Jan 26 - [[content/liquid damage? call me!]]
 
 ## Articles Written
 - [x] [[JTT/Battery Upkeep |Battery Upkeep]]
