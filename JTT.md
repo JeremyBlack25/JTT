@@ -12,8 +12,14 @@
 ## 2026
 - [x] Jan 12- [[quick switch]]
 - [x] Jan 5 - [[content/Apple Laptop Tips/Updates, wherefore art thou]]
-- [ ] Jan 20 - [[content/Timer Time!]]
-- [ ] Jan 26 - [[content/liquid damage? call me!]]
+- [x] Jan 20 - [[content/Timer Time!]]
+- [x] Jan 26 - Re-use [[1Password git]]
+- [ ] Feb 2 - [[content/liquid damage? call me!]]
+- [ ] [[content/Security/Coffee Shop Dangers]]
+- [ ] [[content/Security/Lock it Before you Leave it]]
+- [ ] [[content/Schedule Send: Respecting Your Own Boundaries]]
+- [ ] [[content/Stop the Screech]]
+- [ ] [[content/using AI]]
 
 ## Articles Written
 - [x] [[JTT/Battery Upkeep |Battery Upkeep]]
