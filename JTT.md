@@ -21,6 +21,8 @@
 - [ ] [[content/Stop the Screech]]
 - [ ] [[content/using AI]]
 
+Tech Wizard PNG for videos
+
 ## Articles Written
 - [x] [[JTT/Battery Upkeep |Battery Upkeep]]
 - [x] [[JTT/1Password |1Password]]
