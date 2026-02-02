@@ -26,14 +26,14 @@ Tech Wizard PNG for videos
 ## Articles Written
 - [x] [[JTT/Battery Upkeep |Battery Upkeep]]
 - [x] [[JTT/1Password |1Password]]
-- [ ] [[Website Block Requests|Website Block Requests]]
+- [x] [[Website Block Requests|Website Block Requests]]
 - [x] [[JTT/Chromebook Powerwash|Chromebook Powerwash]]
 - [x] [[JTT/Restarting is Loving|Restarting is Loving Your Device]]
 - [ ] [[JTT/Putting in a Ticket (video?)|Putting in a Ticket]]
 - [ ] How to scan-to-email on the new copiers
 - [ ] How to use Go-To
 - [x] [[JTT/Self-serve with Mosyle]]
-- [ ] [[content/Learn about the Learn Platform|Learn about Learn Platform]]
+- [x] [[content/Learn about the Learn Platform|Learn about Learn Platform]]
 - [x] [[JTT/Fishing vs Phishing|Fishing vs Phishing]]
 	- [x] Make them do Hanna's phishing quiz and share their results (I did this, and people liked it)
 - [ ] How to customize their Control Center (to show/hide bluetooth, weather, airplay, wifi, etc)
