@@ -14,7 +14,9 @@
 - [x] Jan 5 - [[content/Apple Laptop Tips/Updates, wherefore art thou]]
 - [x] Jan 20 - [[content/Timer Time!]]
 - [x] Jan 26 - Re-use [[1Password git]]
-- [ ] Feb 2 - [[content/liquid damage? call me!]]
+- [ ] Feb 2 -
+- [ ] Feb 9 - [[content/The Future of JTT]]
+- [ ] [[content/liquid damage? call me!]]
 - [ ] [[content/Security/Coffee Shop Dangers]]
 - [ ] [[content/Security/Lock it Before you Leave it]]
 - [ ] [[content/Schedule Send: Respecting Your Own Boundaries]]
