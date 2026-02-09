@@ -46,7 +46,7 @@ Tech Wizard PNG for videos
 - [ ] [[JTT/MacOS Desktops]]
 - [x] [[Screen & Spring Cleaning]]
 - [ ] Chrome accounts sync, and window tabs make a bookmark then backup bookmarks before moving to new computer.
-- [ ] [[Cart timers]](include Q&A)
+- [x] [[Cart timers]](include Q&A)
 - [ ] [[Apple Classroom & LanschoolAir]] 
 - [x] [[Why techs use so much Jargon]]
 - [x] [[JTT/Rate your Technician]]
