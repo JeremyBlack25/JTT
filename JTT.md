@@ -25,6 +25,9 @@
 
 Tech Wizard PNG for videos
 
+# More Articles
+- [ ] Keyboard shortcuts (close tabs, new tabs, close windows)
+
 ## Articles Written
 - [x] [[JTT/Battery Upkeep |Battery Upkeep]]
 - [x] [[JTT/1Password |1Password]]
