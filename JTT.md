@@ -27,6 +27,7 @@ Tech Wizard PNG for videos
 
 # More Articles
 - [ ] Keyboard shortcuts (close tabs, new tabs, close windows)
+- [ ] [[content/Sending in a ticket, QUICKLY]]
 
 ## Articles Written
 - [x] [[JTT/Battery Upkeep |Battery Upkeep]]
