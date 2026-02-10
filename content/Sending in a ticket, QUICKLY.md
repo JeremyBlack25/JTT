@@ -1,7 +1,7 @@
 ---
 title: Sending in a ticket, QUICKLY
 date:
-draft:
+draft: true
 description:
 ---
 This Article is straight from a response to my questionnaire about JTT.

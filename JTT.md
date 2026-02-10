@@ -25,12 +25,14 @@
 - [ ] [[content/Schedule Send: Respecting Your Own Boundaries]]
 - [ ] [[content/Stop the Screech]]
 - [ ] [[content/using AI]]
+- [ ] 
 
 Tech Wizard PNG for videos
 
 # More Articles
 - [ ] Keyboard shortcuts (close tabs, new tabs, close windows)
 - [ ] [[content/Sending in a ticket, QUICKLY]]
+- [ ] [[content/printer ink?]]
 
 ## Articles Written
 - [x] [[JTT/Battery Upkeep |Battery Upkeep]]
