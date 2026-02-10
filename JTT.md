@@ -15,8 +15,11 @@
 - [x] Jan 20 - [[content/Timer Time!]]
 - [x] Jan 26 - Re-use [[1Password git]]
 - [ ] Feb 2 -
-- [ ] Feb 9 - [[content/The Future of JTT]]
-- [ ] [[content/liquid damage? call me!]]
+- [x] Feb 9 - [[content/The Future of JTT]]
+- [ ] Feb 16 - [[content/Sending in a ticket, QUICKLY]]
+- [ ] Feb 23 - [[content/liquid damage? call me!]]
+- [ ] Mar 1 - [[visibility]]
+- [ ] Mar 8 - [[Jeremy Tech Tips, ANYWHERE]]
 - [ ] [[content/Security/Coffee Shop Dangers]]
 - [ ] [[content/Security/Lock it Before you Leave it]]
 - [ ] [[content/Schedule Send: Respecting Your Own Boundaries]]
