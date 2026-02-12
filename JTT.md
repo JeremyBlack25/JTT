@@ -30,7 +30,7 @@
 Tech Wizard PNG for videos
 
 # More Articles
-- [ ] Keyboard shortcuts (close tabs, new tabs, close windows)
+- [ ] [[content/More Keyboard shortcuts]] (close tabs, new tabs, close windows)
 - [ ] [[content/Sending in a ticket, QUICKLY]]
 - [ ] [[content/printer ink?]]
 
