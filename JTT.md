@@ -16,7 +16,8 @@
 - [x] Jan 26 - Re-use [[1Password git]]
 - [ ] Feb 2 -
 - [x] Feb 9 - [[content/The Future of JTT]]
-- [ ] Feb 16 - [[content/Sending in a ticket, QUICKLY]]
+- [ ] Feb 16 - [[content/Personalizing your life]]
+- [ ] [[content/Sending in a ticket, QUICKLY]]
 - [ ] Feb 23 - [[content/liquid damage? call me!]]
 - [ ] Mar 1 - [[visibility]]
 - [ ] Mar 8 - [[Jeremy Tech Tips, ANYWHERE]]
