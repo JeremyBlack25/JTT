@@ -6,10 +6,10 @@ description:
 ---
 Signing into a browser saves you from seeing things you don't wan to see.
 
-Too Long Didn't Read; TLDR
+#### Too Long Didn't Read; TLDR
 
-Youtube was blocked for a day last week. This was due to inappropriate pictures in ads. 
-Be sure to log into your browser
+Youtube was blocked for one day last week. This was due to inappropriate pictures in ads that was presented to the students. 
+How to prevent: Be sure to log into your browser with your **csddocs.org** account.
 
 ---
 
