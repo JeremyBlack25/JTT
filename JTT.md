@@ -17,7 +17,7 @@
 - [ ] Feb 2 -
 - [x] Feb 9 - [[content/The Future of JTT]]
 - [x] Feb 17 - [[content/Personalizing your life]]
-- [ ] [[content/Sending in a ticket, QUICKLY]]
+- [ ] Mar 2 - [[content/Sending in a ticket, QUICKLY]]
 - [ ] Feb 23 - [[content/liquid damage? call me!]]
 - [ ] Mar 1 - [[visibility]]
 - [ ] Mar 8 - [[Jeremy Tech Tips, ANYWHERE]]
