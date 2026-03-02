@@ -4,8 +4,7 @@ date:
 draft: 
 description: Are there apps that you want on your iPad? But you don't want to login to your personal iCloud account? Keep reading to find out how.
 ---
-![[Screenshot 2025-03-10 at 4.34.45 PM.png]]
-
+![](Pictures/Screenshot%202025-03-10%20at%204.34.45%20PM%201.png)
 Hello, and welcome to another Tech Tip!
 
 Today we are going to be talking about Mosyle. No, it is not the latest TikTok Trend or latest pandemic virus. Mosyle is our Mobile Device Manager (MDM) for Apple Products.
