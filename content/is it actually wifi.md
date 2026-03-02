@@ -22,7 +22,7 @@ If you are having trouble getting to these or other websites to work, but google
 # Common Issues
 ## I'm getting a weird block page
 
-![[Screenshot 2025-11-17 at 12.04.12 PM.png]]
+![[Pictures/Screenshot 2025-11-17 at 12.04.12 PM.png]]
 This is getting blocked on a system level, meaning that it's hitting a filter, send me a picture and we can dive in together.
 
 ## My Apple TV Won't connect
