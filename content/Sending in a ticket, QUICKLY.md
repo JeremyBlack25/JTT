@@ -9,7 +9,7 @@ This Article is straight from a response to my questionnaire about JTT.
 
 Let's talk about it!
 ___
-Too long, Didn't Readq TL;DR
+Too long, Didn't Read TL;DR
 The fastest way to put in a ticket is to do a "Service Not Found" ticket. It has no automation, it just goes straight to your tech you are assigned to (Derrick for CDO or whatever tech is over your building). You can bookmark this link: https://canyonsdistrict.teamdynamix.com/TDClient/219/Portal/Requests/TicketRequests/NewForm?ID=0tesPwS3wG8_&RequestorType=Service
 
 OR
