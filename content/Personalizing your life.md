@@ -26,7 +26,6 @@ Chrome and Firefox are the 2 supported browsers of the district. I know most peo
 
 First thing to look at is the top right of your browser window, click on your profile picture or the little person in a circle.
 ![](Pictures/Screenshot%202026-02-17%20at%209.33.19%20AM.png)
-![[/Pictures/Screenshot 2026-02-17 at 9.33.19 AM.png]]
 
 If it tells you "Sign in to Chrome" you want to click on that. it'll ask for an email; you want to put in your @csddocs.org email account. Then you put in your same password for all your district accounts.
 You can click through everything, and then it'll come to a screen like this...
