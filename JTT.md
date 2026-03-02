@@ -7,17 +7,17 @@
 - [ ] [[Bite-Size printer tips]] pt 5
 - [x] April 28-[[Self-serve with Mosyle git]]
 - [x] Nov 9 - [[Where are your screenshots going?]]
-- [x] Nov 17 - [[content/is it actually wifi]]
-- [x] Dec 8 - [[Closed tabs]]
+- [x] Nov 17 - [[content/General Tech/is it actually wifi]]
+- [x] Dec 8 - [[content/General Tech/Closed tabs]]
 ## 2026
 - [x] Jan 12- [[quick switch]]
 - [x] Jan 5 - [[content/Apple Laptop Tips/Updates, wherefore art thou]]
-- [x] Jan 20 - [[content/Timer Time!]]
-- [x] Jan 26 - Re-use [[1Password git]]
+- [x] Jan 20 - [[content/Canyons District Tips/Timer Time!]]
+- [x] Jan 26 - Re-use [[content/General Tech/1Password git]]
 - [ ] Feb 2 -
 - [x] Feb 9 - [[content/The Future of JTT]]
 - [x] Feb 17 - [[content/Personalizing your life]]
-- [x] Mar 2 - [[content/Sending in a ticket, QUICKLY]]
+- [x] Mar 2 - [[content/Canyons District Tips/Sending in a ticket, QUICKLY]]
 - [ ] Feb 23 - [[content/liquid damage? call me!]]
 - [ ] Mar 1 - [[visibility]]
 - [ ] Mar 8 - [[Jeremy Tech Tips, ANYWHERE]]
@@ -31,9 +31,9 @@
 Tech Wizard PNG for videos
 
 # More Articles
-- [ ] [[content/More Keyboard shortcuts]] (close tabs, new tabs, close windows)
-- [ ] [[content/Sending in a ticket, QUICKLY]]
-- [ ] [[content/printer ink?]]
+- [ ] [[content/Apple Laptop Tips/More Keyboard shortcuts]] (close tabs, new tabs, close windows)
+- [ ] [[content/Canyons District Tips/Sending in a ticket, QUICKLY]]
+- [ ] [[content/General Tech/printer ink?]]
 
 ## Articles Written
 - [x] [[JTT/Battery Upkeep |Battery Upkeep]]
@@ -45,7 +45,7 @@ Tech Wizard PNG for videos
 - [ ] How to scan-to-email on the new copiers
 - [ ] How to use Go-To
 - [x] [[JTT/Self-serve with Mosyle]]
-- [x] [[content/Learn about the Learn Platform|Learn about Learn Platform]]
+- [x] [[content/Canyons District Tips/Learn about the Learn Platform|Learn about Learn Platform]]
 - [x] [[JTT/Fishing vs Phishing|Fishing vs Phishing]]
 	- [x] Make them do Hanna's phishing quiz and share their results (I did this, and people liked it)
 - [ ] How to customize their Control Center (to show/hide bluetooth, weather, airplay, wifi, etc)
@@ -59,7 +59,7 @@ Tech Wizard PNG for videos
 - [x] [[JTT/Rate your Technician]]
 - [x] [[Summer soup git]]
 - [x] [[What Happened over the Summer?]]
-- [x] [[content/how does amazon control ClassLink]]
+- [x] [[content/General Tech/how does amazon control ClassLink]]
 
 
 
