@@ -29,7 +29,8 @@ First thing to look at is the top right of your browser window, click on your pr
 
 If it tells you "Sign in to Chrome" you want to click on that. it'll ask for an email; you want to put in your @csddocs.org email account. Then you put in your same password for all your district accounts.
 You can click through everything, and then it'll come to a screen like this...
-![[Pictures/Screenshot 2026-02-17 at 9.36.36 AM.png]]
+![](Pictures/Screenshot%202026-02-17%20at%209.36.36%20AM.png)
+
 
 You want to make sure that you select "No, continue to use for school in this profile". Otherwise, you'll lose your browsing history, bookmarks, and saved passwords.
 
