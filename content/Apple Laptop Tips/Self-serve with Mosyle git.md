@@ -16,7 +16,7 @@ You probably recognize the icon from your iPads. It loads the app as part of the
 Did you know that there are apps available for you to download WITHOUT going to the App Store or signing into your Apple ID? Those apps are in the Mosyle Manager app on your iPad.
 
 First, you wanna find your Mosyle School app. You may need to do a search for it by pulling down on your home screen. 
-![](../../Pictures/Screenshot%202025-03-10%20at%204.34.45%20PM%201.png)
+![](../Pictures/Screenshot%202025-03-10%20at%204.34.45%20PM%201.png)
 
 Once you have it open, click the "self-service" button on the bottom right. No need to login.
 
