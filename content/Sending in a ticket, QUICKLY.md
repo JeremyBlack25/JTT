@@ -1,7 +1,7 @@
 ---
 title: Sending in a ticket, QUICKLY
-date:
-draft: true
+date: 2026-03-02
+draft: false
 description:
 ---
 This Article is straight from a response to my questionnaire about JTT.
@@ -18,7 +18,7 @@ You can send an email to help@canyonsdistrict.org and it will automatically gene
 NOTE: this will NOT work for custodial tickets. You have to go to tdx.canyonsdistrict.org for those.
 ___
 
-
+here is the full video if you want to watch it!
 
 As always if you need any help with your technology or have any questions, I'm happy to help! Be sure to submit a ticket through one of the official methods: email help@canyonsdistrict.org or by logging into [tdx.canyonsdistrict.org](http://tdx.canyonsdistrict.org).
 
