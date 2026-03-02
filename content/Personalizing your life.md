@@ -1,7 +1,7 @@
 ---
 title: Personalizing Your Browser
 date: 2026-02-17
-draft: true
+draft: false
 description:
 ---
 Signing into a browser saves you from seeing things you don't want to see.
