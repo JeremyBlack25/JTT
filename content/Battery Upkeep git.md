@@ -11,8 +11,7 @@ I wanna start a new trend! I get asked for tech tips all the time while i'm out 
 One of the most common questions I get is about batteries in our devices. A lot of questions about "how often should it be charged?" "it it okay to charge overnight?" and many similar.
 
 Here's a great quick reference guide on a few of those questions.
-
-![](Pictures/Battery%20Health%201.png)
+![](../Pictures/Battery%20Health%201.png)
 
 When it comes to charging, I recommend not having it plugged in all the time, or if it needs to be, because of a monitor that charges it, then i recommend finding an app that limits how much it charges. I have one that I use and LOVE! But for the most part, once your laptop is charged, unplug it and let it run off battery for a while, basically just let it stretch it's legs and get some exercise.
 
