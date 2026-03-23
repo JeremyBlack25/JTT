@@ -18,7 +18,7 @@
 - [x] Feb 9 - [[content/The Future of JTT]]
 - [x] Feb 17 - [[content/Personalizing your life]]
 - [x] Mar 2 - [[content/Canyons District Tips/Sending in a ticket, QUICKLY]]
-- [ ] Mar 10 - [[content/Chromebooks/The power of Powerwash]]
+- [x] Mar 10 - [[content/Chromebooks/The power of Powerwash]]
 - [ ] mar 9 - [[content/liquid damage? call me!]]
 - [ ] Mar 16 - [[visibility]]
 - [ ] Mar 23 - [[Jeremy Tech Tips, ANYWHERE]]
