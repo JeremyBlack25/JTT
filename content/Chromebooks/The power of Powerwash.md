@@ -4,8 +4,6 @@ date: 2026-03-10
 draft:
 description:
 ---
-## **Revised Draft**
-
 This is going to be fast today because I forgot to send it out yesterday!
 
 Many of you have heard me talk about "Powerwashing" a Chromebook. I'm sure that raises an eyebrow or two, so let me explain what I mean and why it's the **BEST thing** you can do to fix a Chromebook issue.

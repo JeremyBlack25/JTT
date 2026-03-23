@@ -10,7 +10,7 @@ description:
 - Press: ctrl + alt + Shift + R
 - It will ask if you are sure you want to do this, click to confirm
 - The chromebook will restart and eventually come up to a screen that says “Welcome to your Chromebook”
-- Click through everything until you get to wifi selection and select "Canyons-Guest"
+- Click through everything until you get to wifi selection and select **"Canyons-Guest"**
 - Allow the terms and conditions
 - It will do some setup that will take just a minute
 - It should come to a screen that says you’re ready to go and you can click “Done”
