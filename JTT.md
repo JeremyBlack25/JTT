@@ -21,7 +21,7 @@
 - [x] Mar 10 - [[content/Chromebooks/The power of Powerwash]]
 - [ ] mar 9 - [[content/liquid damage? call me!]]
 - [ ] Mar 16 - [[visibility]]
-- [ ] Mar 23 - [[Jeremy Tech Tips, ANYWHERE]]
+- [x] Mar 23 - [[Jeremy Tech Tips, ANYWHERE]]
 - [ ] [[content/Security/Coffee Shop Dangers]]
 - [ ] [[content/Security/Lock it Before you Leave it]]
 - [ ] [[content/Schedule Send: Respecting Your Own Boundaries]]
