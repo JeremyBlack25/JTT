@@ -18,9 +18,9 @@ Feel Free to send these out to anyone that would be interested, and send me tips
 Every article is on the left side of the screen. Read through them, refresh yourself and come back later to check out more as they come out.
 
 ## Looking for something specific?
-Use the search bar on the left to find specific words to help narrow down which article you're looking for?
+Use the search bar on the left to find specific words to help narrow down which article you're looking for.
 
 Written by Jeremy Black
-	Field Technician for Canyons School District
+Field Technician for Canyons School District
 
 See the Quartz [documentation](https://quartz.jzhao.xyz) for how to get started.
