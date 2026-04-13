@@ -11,13 +11,9 @@ Cleaning tech can get neglected, especially if we don't know how. This guide pro
 **Key Steps:**
 
 - **Preparation:** Shut down your device completely before starting.
-    
 - **The Screen:** Use a microfiber cloth in circular motions. If spots remain, spray the **cloth** (never the screen) with cleaning solution and wipe again.
-    
 - **The Keyboard:** Turn the laptop upside down to shake out debris. Wipe keys gently, avoiding the power button until the very end. Use compressed air to blow out dust from tight crevices.
-    
 - **The Body:** Use a slightly damp cloth to wipe away fingerprints and grime from the outer casing and palm rests.
-    
 
 **Pro-Tip:** Never apply liquid directly to the device; always dampen the cloth first to prevent internal damage.
 
