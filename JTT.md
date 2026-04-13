@@ -22,6 +22,7 @@
 - [ ] mar 9 - [[content/liquid damage? call me!]]
 - [x] Mar 23 - [[Jeremy Tech Tips, ANYWHERE]]
 - [x] Mar 30 - [[content/visibility]]
+- [ ] Apr 13 - [[JTT-Screen & Spring Cleaning]]
 - [ ] [[content/Security/Coffee Shop Dangers]]
 - [ ] [[content/Security/Lock it Before you Leave it]]
 - [ ] [[content/Schedule Send: Respecting Your Own Boundaries]]

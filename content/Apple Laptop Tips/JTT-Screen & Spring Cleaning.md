@@ -4,6 +4,25 @@ date: 2025-05-15
 draft: 
 description: Tips on the correct and safe way to clean your screens and laptops.
 ---
+Too Long; Didn't Read
+
+Cleaning tech can get neglected, especially if we don't know how. This guide provides a safe method for cleaning your computer using a microfiber cloth, specialized cleaning solution (like "Screen Mom"), and optional compressed air.
+
+**Key Steps:**
+
+- **Preparation:** Shut down your device completely before starting.
+    
+- **The Screen:** Use a microfiber cloth in circular motions. If spots remain, spray the **cloth** (never the screen) with cleaning solution and wipe again.
+    
+- **The Keyboard:** Turn the laptop upside down to shake out debris. Wipe keys gently, avoiding the power button until the very end. Use compressed air to blow out dust from tight crevices.
+    
+- **The Body:** Use a slightly damp cloth to wipe away fingerprints and grime from the outer casing and palm rests.
+    
+
+**Pro-Tip:** Never apply liquid directly to the device; always dampen the cloth first to prevent internal damage.
+
+---
+
 It's time for SPRING CLEANING! When was the last time you thought about cleaning your computer? Take a second and look down at your keyboard, your screen, how's it looking? If you're like me, then it probably needs a little TLC.
 
 Sometimes we don't clean something because we don't know how, and that's especially true for computers. But no fear, I have the insider knowledge about the right way to clean it without damage or worry.
@@ -22,7 +41,7 @@ What you'll need:
 		* canned air
 			* https://www.amazon.com/Office-Depot-Cleaning-Duster-OD101523/dp/B00DB8NSG6?sr=8-3
 		* air compressor/duster
-			* https://www.amazon.com/Compressed-Fulljion-51000RPM-Electric-6000mAhRechargeable/dp/B09V4L21G6?sr=8-4
+			*[ https://www.amazon.com/Compressed-Fulljion-51000RPM-Electric-6000mAhRechargeable/dp/B09V4L21G6?sr=8-4](https://www.amazon.com/Compressed-260000RPM-Brushless-Adjustable-Rechargeable/dp/B0DSHVRDJ6/ref=sr_1_12_sspa)
 
 
 Screen Cleaning Instructions:
