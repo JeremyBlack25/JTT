@@ -33,7 +33,8 @@
 Tech Wizard PNG for videos
 
 # Video Series
-1. TDX Tips
+1. [TDX Tips](Series/TDX%20Tips.md)
+2. 
 
 # More Articles
 - [ ] [[content/Apple Laptop Tips/More Keyboard shortcuts]] (close tabs, new tabs, close windows)
