@@ -32,6 +32,9 @@
 
 Tech Wizard PNG for videos
 
+# Video Series
+1. TDX Tips
+
 # More Articles
 - [ ] [[content/Apple Laptop Tips/More Keyboard shortcuts]] (close tabs, new tabs, close windows)
 - [ ] [[content/Canyons District Tips/Sending in a ticket, QUICKLY]]

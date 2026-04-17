@@ -1,8 +1,9 @@
 ---
-title: 
-date: 
-draft: 
-description:
+title:
+date:
+draft:
+Tip Type:
+Description:
 ---
 
 
