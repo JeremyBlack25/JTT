@@ -22,17 +22,6 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    // --- FEATURED LINK START ---
-    Component.ConditionalRender({
-      condition: (page) => page.fileData.slug === "index",
-      component: Component.RecentNotes({ 
-        title: "Recently Published:", 
-        limit: 1,
-        showTags: false,
-        linkToMore: "tags/tech-tips" // Optional: removes the "see more" link if you don't want it
-      }),
-    }),
-    // --- FEATURED LINK END ---
     Component.ContentMeta(),
     Component.TagList(),
   ],

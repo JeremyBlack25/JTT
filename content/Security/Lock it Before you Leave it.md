@@ -1,6 +1,6 @@
 ---
 title: Lock It Before You Leave It
-date:
+date: 2026-04-20
 draft: false
 Tip Type: Article
 Description:
@@ -14,7 +14,8 @@ Description:
 - **Pro Tip:** Use **Touch ID** for instant login. Need help setting it up? Reach out to IT!
 ---
 
-We in IT have a tradition & lesson wrapped into one. When we meet up together and someone walks away from their laptop, and mistakenly didn't lock their screen, we change their background. We do all kinds of backgrounds, the crowd favorite is My Little Pony![](../Pictures/My%20Little%20Pony.jpg)
+We in IT have a tradition & lesson wrapped into one. When we meet up together and someone walks away from their laptop, and mistakenly didn't lock their screen, we change their background. We do all kinds of backgrounds, the crowd favorite is My Little Pony
+![](../Pictures/My%20Little%20Pony.jpg)
 
 
 ## Why do we do this?
