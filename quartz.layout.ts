@@ -29,7 +29,7 @@ export const defaultContentPageLayout: PageLayout = {
         title: "Latest Tech Tips:", 
         limit: 2,
         showTags: false,
-        linkToMore: "tags/tech-tips" // Optional: removes the "see more" link if you don't want it
+        //linkToMore: "tags/tech-tips" // Optional: removes the "see more" link if you don't want it
       }),
     }),
     // --- FEATURED LINK END ---
