@@ -26,8 +26,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ConditionalRender({
       condition: (page) => page.fileData.slug === "index",
       component: Component.RecentNotes({ 
-        title: "Recently Published:", 
-        limit: 1,
+        title: "Latest Tech Tips:", 
+        limit: 2,
         showTags: false,
         linkToMore: "tags/tech-tips" // Optional: removes the "see more" link if you don't want it
       }),
