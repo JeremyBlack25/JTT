@@ -15,6 +15,7 @@ Description:
 ---
 
 We in IT have a tradition & lesson wrapped into one. When we meet up together and someone walks away from their laptop, and mistakenly didn't lock their screen, we change their background. We do all kinds of backgrounds, the crowd favorite is My Little Pony
+
 ![](../Pictures/My%20Little%20Pony.jpg)
 
 
