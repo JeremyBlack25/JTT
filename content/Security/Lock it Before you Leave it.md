@@ -8,9 +8,7 @@ Description:
 **TL;DR: Lock it or "Pony" it! 🦄** To keep your accounts (Email, Skyward, Bank) safe from prying eyes, always lock your screen before walking away.
 
 - **The Risk:** Anyone can pose as you or access sensitive data if your laptop is open.
-    
 - **The Fix:** Tap the **Power Button** to lock.
-    
 - **Pro Tip:** Use **Touch ID** for instant login. Need help setting it up? Reach out to IT!
 ---
 
