@@ -24,7 +24,7 @@
 - [x] Mar 30 - [[content/visibility]]
 - [x] Apr 13 - [[JTT-Screen & Spring Cleaning]]
 - [x] Apr 20 - [[content/Security/Lock it Before you Leave it]]
-- [ ] Apr 20 - [[content/Security/Coffee Shop Dangers]]
+- [x] Apr 20 - [[content/Security/Coffee Shop Dangers]]
 - [ ] [[content/Schedule Send: Respecting Your Own Boundaries]]
 - [ ] [[content/Stop the Screech]]
 - [ ] [[content/using AI]]
