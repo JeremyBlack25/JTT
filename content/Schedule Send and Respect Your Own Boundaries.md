@@ -1,8 +1,8 @@
 ---
-title:
+title: Schedule Send
 date:
-draft:
-Tip Type:
+draft: true
+Tip Type: Infographic
 Description:
 ---
 ![](Pictures/Scheduled_Email_Infographic.jpg)
