@@ -1,7 +1,7 @@
 ---
 title: Schedule Send
-date:
-draft: true
+date: 2026-05-04
+draft: false
 Tip Type: Infographic
 Description:
 ---
