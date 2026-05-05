@@ -25,10 +25,10 @@
 - [x] Apr 13 - [[JTT-Screen & Spring Cleaning]]
 - [x] Apr 20 - [[content/Security/Lock it Before you Leave it]]
 - [x] Apr 20 - [[content/Security/Coffee Shop Dangers]]
-- [ ] [[content/Schedule Send and Respect Your Own Boundaries]]
+- [x] May 4 - [[content/Schedule Send and Respect Your Own Boundaries]]
 - [ ] [[content/Stop the Screech]]
 - [ ] [[content/using AI]]
-- [ ] 
+- [ ]  [[Apple Classroom & LanschoolAir]] 
 
 Tech Wizard PNG for videos
 
