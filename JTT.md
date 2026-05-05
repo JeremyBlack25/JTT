@@ -26,6 +26,7 @@
 - [x] Apr 20 - [[content/Security/Lock it Before you Leave it]]
 - [x] Apr 20 - [[content/Security/Coffee Shop Dangers]]
 - [x] May 4 - [[content/Schedule Send and Respect Your Own Boundaries]]
+- [ ] [[content/Apple Laptop Tips/More Keyboard shortcuts]] (close tabs, new tabs, close windows)
 - [ ] [[content/Stop the Screech]]
 - [ ] [[content/using AI]]
 - [ ]  [[Apple Classroom & LanschoolAir]] 
