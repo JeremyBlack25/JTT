@@ -38,7 +38,7 @@ Tech Wizard PNG for videos
 2. 
 
 # More Articles
-- [ ] [[content/Apple Laptop Tips/More Keyboard shortcuts]] (close tabs, new tabs, close windows)
+- [x] [[content/Apple Laptop Tips/More Keyboard shortcuts]] (close tabs, new tabs, close windows)
 - [ ] [[content/Canyons District Tips/Sending in a ticket, QUICKLY]]
 - [ ] [[content/General Tech/printer ink?]]
 
