@@ -31,6 +31,12 @@
 - [ ] [[content/using AI]]
 - [ ]  [[Apple Classroom & LanschoolAir]] 
 
+
+
+# 26-27
+- [ ] 3D Printing
+- [ ] 
+
 Tech Wizard PNG for videos
 
 # Video Series
