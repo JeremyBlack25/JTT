@@ -28,8 +28,6 @@ But don't feel too bad for us, a lot of us techs actually enjoy the summer jobs.
 I'm sad to say this is my last Jeremy Tech Tip for the year, but don't worry. I've got more planned for the start of next year! 
 In the meantime if there is one that you saw before but can't remember where it is, i've actually started putting them all on a website! Go checkout: https://jeremyblack25.github.io/JTT/
 
-Not quite all of them are there yet, but they will be over the next few weeks, so keep an eye out!
-
 Genuinely, thank you all for an amazing year and I can't wait for next year when everything starts again!
 
 #JTT 
