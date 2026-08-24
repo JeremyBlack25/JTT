@@ -37,7 +37,6 @@
 # 26-27
 - [ ] 3D Printing
 - [ ] [[content/Spotlight on the Spotlight]]
-- [ ] 
 
 Tech Wizard PNG for videos
 

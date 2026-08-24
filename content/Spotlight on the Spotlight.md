@@ -1,3 +1,12 @@
+---
+title: Spotlight on The Spotlight
+date: 2026-08-24
+draft:
+Tip Type: Article
+Description: MacOS search, also called Spotlight, is a VERY powerful and easy shortcut to find basically anything on your computer.
+---
+
+
 ### 🔍 Efficiency Tip: Use "Spotlight" as a Calculator & Converter
 
 Ever break your concentration to open the Calculator app for a quick sum, or launch a new browser tab just to check how many ounces are in a cup or convert currency? Switching context like this interrupts your flow and clutters your screen with apps you only need for ten seconds. This built-in search bar is actually a powerful utility tool in disguise.
@@ -20,3 +29,9 @@ How to use it:
     
 
 I’ve created a custom report of tickets to show only what has been resolved/closed in the last 7 days. It should be sent to everyone automatically each Friday.
+
+As always if you need any help with your technology or have any questions, I'm happy to help! Be sure to submit a ticket through one of the official methods.
+**Email**: help@canyonsdistrict.org 
+**Web**:[tdx.canyonsdistrict.org](http://tdx.canyonsdistrict.org).
+
+Thank you, and have a happy week!
