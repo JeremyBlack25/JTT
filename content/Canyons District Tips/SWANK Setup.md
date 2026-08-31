@@ -22,6 +22,6 @@ Common issues:
 	1. make sure you are using **Safari** and following the instructions above
 2. I can’t find my Apple TV in the list
 	1. It likely needs to be rebooted, if you can access the power cable unplug it for 10ish seconds and plug it back in. wait for it to come back up and try to reconnect.
-	2. Or Reach out to me and I can have the AV team reboot it remotely, **preferred method**
+	2. Or Reach out to me and I can reboot it remotely, **preferred method**
 3. The audio keeps skipping but the video seems fine
 	1. Either your laptop or the ATV needs to be updated, schedule a time with me and we can look into it.
