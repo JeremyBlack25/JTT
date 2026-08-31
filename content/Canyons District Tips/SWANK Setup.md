@@ -13,7 +13,7 @@ I’ve gotten a lot of requests for a reminder on how to get SWANK to work on th
 1. Make sure you are NOT connected to your Apple TV
 2. Copy and paste your link into your SAFARI browser.
 3. Login with your csddocs.org account ([first.last@csddocs.org](mailto:first.last@csddocs.org "mailto:first.last@csddocs.org"))
-4. Once you have the movie up on your laptop, look for the triangle under a rectangle in the bottom right corner of the movie. ![88](../Pictures/AirPlay_logo.svg.webp)
+4. Once you have the movie up on your laptop, look for the triangle under a rectangle in the bottom right corner of the movie. ![88](../Pictures/AirPlay_logo.svg.webp|200)
 5. When you click, it should pull up all the Apple TVs, select yours like normal.
 6. The movie should now be playing on the screen and you can still fully use your laptop.
 
