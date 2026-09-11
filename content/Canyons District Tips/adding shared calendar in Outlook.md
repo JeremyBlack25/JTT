@@ -5,7 +5,7 @@ draft: false
 description: Outlook can be intimidating. never fear, this simple guide will be the boost you need to feel confident again!
 recipiants: _EastMidvaleES_Staff <_EastMidvaleES_Staff@canyonsdistrict.org>; _OakdaleES_Staff <_OakdaleES_Staff@canyonsdistrict.org>; _CanyonViewES_Staff <_CanyonViewES_Staff@canyonsdistrict.org>
 ---
-Calendars can be both helpful and frustrating. Especially if you've ever tried to add one of the shared calendars on Outlook. Luckily it doesn't have to be so annoying! once you know the tricks it becomes a lot less daunting and you see that it's quite easy!
+Calendars can be both helpful and frustrating. Especially if you've ever tried to add one of the shared calendars on Outlook. Luckily it doesn't have to be so annoying! Once you know the tricks it becomes a lot less daunting and you see that it's quite easy!
 
 These instructions are for the 'new' outlook that came out a few years ago. If you don't have this version, reach out and I can help you get it set up.
 
