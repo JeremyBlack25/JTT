@@ -27,9 +27,8 @@
 - [x] Apr 20 - [[content/Security/Coffee Shop Dangers]]
 - [x] May 4 - [[content/Schedule Send and Respect Your Own Boundaries]]
 - [x] [[content/Apple Laptop Tips/More Keyboard shortcuts]] (close tabs, new tabs, close windows)
-- [ ] May 18 - [[rate your]]
+- [ ] May 18 - [Rate your Technician](content/Rate%20your%20Technician.md)
 - [ ] [[content/Stop the Screech]]
-- [ ] [[content/using AI]]
 - [ ]  [[Apple Classroom & LanschoolAir]] 
 
 
@@ -37,6 +36,9 @@
 # 26-27
 - [ ] 3D Printing
 - [ ] [[content/Spotlight on the Spotlight]]
+- [ ] [content/using AI](content/using%20AI)
+- [ ] [content/liquid damage? call me!](liquid%20damage?%20call%20me!)
+
 
 Tech Wizard PNG for videos
 
