@@ -38,6 +38,8 @@
 - [ ] [[content/Spotlight on the Spotlight]]
 - [ ] [content/using AI](content/using%20AI)
 - [ ] [content/liquid damage? call me!](liquid%20damage?%20call%20me!)
+- [ ] [[content/Sounds of Disney]]
+- [ ] 
 
 
 Tech Wizard PNG for videos
