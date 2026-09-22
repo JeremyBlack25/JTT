@@ -33,12 +33,13 @@
 
 
 
-# 26-27
+# 26-27 Tuesday Tech Tips
 - [ ] 3D Printing
 - [ ] [[content/Spotlight on the Spotlight]]
 - [ ] [content/using AI](content/using%20AI)
 - [ ] [content/liquid damage? call me!](liquid%20damage?%20call%20me!)
 - [ ] [[content/Sounds of Disney]]
+- [ ] Sept 22 - [[Content/Introducing Google Meet]]
 - [ ] 
 
 
