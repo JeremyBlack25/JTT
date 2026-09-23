@@ -36,18 +36,18 @@
 # 26-27 Tuesday Tech Tips
 - [ ] 3D Printing
 - [ ] [[content/Spotlight on the Spotlight]]
-- [ ] [content/using AI](content/using%20AI)
+- [ ] [content/Getting to Know Your AI Overlords](content/Getting%20to%20Know%20Your%20AI%20Overlords.md)
 - [ ] [content/liquid damage? call me!](liquid%20damage?%20call%20me!)
 - [ ] [[content/Sounds of Disney]]
-- [ ] Sept 22 - [[Content/Introducing Google Meet]]
-- [ ] 
+- [x] Sept 22 - [[Content/Introducing Google Meet]]
+- [ ] Sept 29 - 
 
 
 Tech Wizard PNG for videos
 
 # Video Series
 1. [TDX Tips](Series/TDX%20Tips.md)
-2. 
+2. [Bite-Size printer tips](content/Bite-Size%20printer%20tips.md)
 
 # More Articles
 - [x] [[content/Apple Laptop Tips/More Keyboard shortcuts]] (close tabs, new tabs, close windows)
