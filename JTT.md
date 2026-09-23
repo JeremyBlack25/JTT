@@ -39,8 +39,10 @@
 - [ ] [content/Getting to Know Your AI Overlords](content/Getting%20to%20Know%20Your%20AI%20Overlords.md)
 - [ ] [content/liquid damage? call me!](liquid%20damage?%20call%20me!)
 - [ ] [[content/Sounds of Disney]]
+- [ ] [[content/RAM vs Storage]]
 - [x] Sept 22 - [[Content/Introducing Google Meet]]
 - [ ] Sept 29 - 
+- [ ] 
 
 
 Tech Wizard PNG for videos
