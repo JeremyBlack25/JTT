@@ -41,7 +41,8 @@
 - [ ] [[content/Sounds of Disney]]
 - [ ] [[content/RAM vs Storage]]
 - [x] Sept 22 - [[Content/Introducing Google Meet]]
-- [ ] Sept 29 - 
+- [ ] Sept 29 - [The power of Powerwash](content/Chromebooks/The%20power%20of%20Powerwash.md)
+- [ ] 
 - [ ] 
 
 
