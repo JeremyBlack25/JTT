@@ -1,12 +1,12 @@
 ---
 title: The Power of Powerwash
-date: 2026-03-10
+date: 2026-09-30
 draft:
 description:
 ---
-Many of you have heard me talk about "Powerwashing" a Chromebook. I'm sure that raises an eyebrow or two, so let me explain what I mean and why it's the **BEST thing** you can do to fix a Chromebook issue.
+So, you've heard people talk about "Powerwashing" a Chromebook and at this point you may be too deep in to ask what it means (like me after I meet someone new and forgot their name). Let me explain what I mean and why it's the **BEST thing** you can do to fix a Chromebook issue.
 
-Despite what you might think,A Powerwash is simply another name for a **Factory Reset**, not a super effective way of removing dirt and grime with high powered water. A powerwash erases all data and settings, returning the device to its original factory state—just like it’s brand new.
+Despite what you might think, A Powerwash is simply another name for a **Factory Reset**, not a super effective way of removing dirt and grime with high powered water. A powerwash erases all data and settings, returning the device to its original factory state—just like it’s brand new.
 
 ### **When should you Powerwash?**
 
