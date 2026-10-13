@@ -42,7 +42,7 @@
 - [ ] [[content/RAM vs Storage]]
 - [x] Sept 22 - [[Content/Introducing Google Meet]]
 - [x] Sept 29 - [The power of Powerwash](content/Chromebooks/The%20power%20of%20Powerwash.md)
-- [ ] Oct 5 - [[content/Updates vs Upgrades]]
+- [x] Oct 13 - [[content/Updates vs Upgrades]]
 - [ ] 
 
 
