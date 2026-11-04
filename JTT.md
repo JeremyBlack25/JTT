@@ -43,8 +43,8 @@
 - [x] Sept 22 - [[Content/Introducing Google Meet]]
 - [x] Sept 29 - [The power of Powerwash](content/Chromebooks/The%20power%20of%20Powerwash.md)
 - [x] Oct 13 - [[content/Updates vs Upgrades]]
-- [ ] Nov 3 - [[content/Inventory Fun]]
-- [ ] 
+- [x] Nov 3 - [[content/Inventory Fun]]
+- [ ] Nov 10 - 
 
 
 Tech Wizard PNG for videos
