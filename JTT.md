@@ -44,7 +44,8 @@
 - [x] Sept 29 - [The power of Powerwash](content/Chromebooks/The%20power%20of%20Powerwash.md)
 - [x] Oct 13 - [[content/Updates vs Upgrades]]
 - [x] Nov 3 - [[content/Inventory Fun]]
-- [ ] Nov 10 - 
+- [ ] Nov 10 - [[More Keyboard shortcuts]]
+- [ ] 
 
 
 Tech Wizard PNG for videos
