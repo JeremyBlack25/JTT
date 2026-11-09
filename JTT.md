@@ -53,6 +53,7 @@ Tech Wizard PNG for videos
 # Video Series
 1. [TDX Tips](Series/TDX%20Tips.md)
 2. [Bite-Size printer tips](content/Bite-Size%20printer%20tips.md)
+Animation Tips [https://www.youtube.com/shorts/54wgcLFObTg]
 
 # More Articles
 - [x] [[content/Apple Laptop Tips/More Keyboard shortcuts]] (close tabs, new tabs, close windows)
