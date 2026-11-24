@@ -45,7 +45,8 @@
 - [x] Oct 13 - [[content/Updates vs Upgrades]]
 - [x] Nov 3 - [[content/Inventory Fun]]
 - [x] Nov 10 - [[More Keyboard shortcuts]]
-- [ ] Nov 17 - [Where are your screenshots going?](content/Apple%20Laptop%20Tips/Where%20are%20your%20screenshots%20going?.md)
+- [x] Nov 17 - [Where are your screenshots going?](content/Apple%20Laptop%20Tips/Where%20are%20your%20screenshots%20going?.md)
+- [ ] Nov 24 - 
 
 
 Tech Wizard PNG for videos
